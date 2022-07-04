@@ -1,0 +1,5 @@
+name: JoinLeave
+version: '${project.version}'
+main: com.adum.plugin.joinleave.JoinLeave
+api-version: 1.19
+authors: [ Adum ]
